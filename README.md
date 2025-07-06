@@ -7,7 +7,9 @@ TikTok generation accounts, TikTok api, x-gorgon, x-ladon, x-ladon, TikTok priva
 # TikTok-account
 creator accounts tiktok, python, php version, last app.
 
-
+### contact me
+## Contact Telegram @Neo_Galaxy
+https://t.me/Neo_Galaxy
 
 
 # tiktokapi
