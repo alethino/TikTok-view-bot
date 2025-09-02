@@ -1,7 +1,7 @@
 ### contact me
-## Contact Telegram @Neo_Galaxy
+## Contact Telegram @alethino
 
-https://t.me/Neo_Galaxy
+https://t.me/alethino
 
 import asyncio
 import threading
